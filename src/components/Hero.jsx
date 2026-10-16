@@ -36,7 +36,7 @@ export default function Hero() {
 
           <div className={`${styles.btns} reveal reveal-delay-3`}>
             <a className="btn primary" href="#projects">Explore Projects</a>
-            <a className="btn" href="#" id="resume">Download Resume</a>
+            <a className="btn" href="/Yogesh_Bishwokarmacv.pdf" id="resume" download="Yogesh_Bishwokarmacv.pdf">Download Resume</a>
             <a className="btn" href="#contact">Contact Me</a>
           </div>
 
